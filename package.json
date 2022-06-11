@@ -1,0 +1,16 @@
+{
+  "name": "gutpress",
+  "version": "1.0.0",
+  "description": "Custom Gutenburg blocks to add custom functionalities to your WordPress site. Brought to you by Arif Khan with <3",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && wp-scripts start",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider && wp-scripts build"
+  },
+  "keywords": [],
+  "author": "Arif Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^22.2.1"
+  }
+}
