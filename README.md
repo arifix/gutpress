@@ -20,7 +20,7 @@ Custom Gutenburg blocks to add custom functionalities to your WordPress site. Br
 ![gutpress-testimonial](https://www.arif-khan.net/project/github/testimonial.png?a=1)
 
 ## Features
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFqWmo8vCBc" frameborder="0" allowfullscreen></iframe>
+[![gutpress](https://img.youtube.com/vi/ZFqWmo8vCBc/0.jpg)](https://www.youtube.com/watch?v=ZFqWmo8vCBc)
 
 ## License
 You can download the project, modify the code and use it anywhere you want without re-posting on any blog. Happy Coding :)
