@@ -2,9 +2,12 @@
 Custom Gutenburg blocks to add custom functionalities to your WordPress site. Brought to you by Arif Khan with <3
 
 ## Install
-- 
+- Download ZIP, Find the file "gutpress.zip"
+- Or find the file "gutpress.zip" on release
+- On WP admin, go to Plugins >> Add New >> Upload Plugin >> choose gutpress.zip, install & activate
+- You will see GUTPRESS block category under Gutenburg blocks
 
-## Output
+## Blocks
 ##### Alert
 ![gutpress-alert](https://www.arif-khan.net/project/github/alert.png?a=1)
 ##### Blockquote
