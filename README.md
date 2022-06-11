@@ -6,15 +6,15 @@ Custom Gutenburg blocks to add custom functionalities to your WordPress site. Br
 
 ## Output
 ##### Alert
-![gutpress-alert](https://www.arif-khan.net/project/github/alert.png)
+![gutpress-alert](https://www.arif-khan.net/project/github/alert.png?a=1)
 ##### Blockquote
-![gutpress-blockquote](https://www.arif-khan.net/project/github/blockquote.png)
+![gutpress-blockquote](https://www.arif-khan.net/project/github/blockquote.png?a=1)
 ##### Card
-![gutpress-card](https://www.arif-khan.net/project/github/card.png)
+![gutpress-card](https://www.arif-khan.net/project/github/card.png?a=1)
 ##### Call to Action
-![gutpress-cta](https://www.arif-khan.net/project/github/cta.png)
+![gutpress-cta](https://www.arif-khan.net/project/github/cta.png?a=1)
 ##### Testimonial
-![gutpress-testimonial](https://www.arif-khan.net/project/github/testimonial.png)
+![gutpress-testimonial](https://www.arif-khan.net/project/github/testimonial.png?a=1)
 
 ## License
 You can download the project, modify the code and use it anywhere you want without re-posting on any blog. Happy Coding :)
