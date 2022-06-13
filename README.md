@@ -3,7 +3,7 @@ Custom Gutenburg blocks to add custom functionalities to your WordPress site. Br
 
 ## Install
 - Download ZIP, Find the file "gutpress.zip"
-- Or find the file "gutpress.zip" on release
+- Or find the file "gutpress.zip" from 1.0.0 on release
 - On WP admin, go to Plugins >> Add New >> Upload Plugin >> choose gutpress.zip, install & activate
 - You will see GUTPRESS block category under Gutenburg blocks
 
