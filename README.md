@@ -9,15 +9,15 @@ Custom Gutenburg blocks to add custom functionalities to your WordPress site. Br
 
 ## Blocks
 ##### Alert
-![gutpress-alert](https://www.arif-khan.net/project/github/alert.png?a=1)
+![gutpress-alert](https://www.arif-khan.net/_old/project/github/alert.png?a=1)
 ##### Blockquote
-![gutpress-blockquote](https://www.arif-khan.net/project/github/blockquote.png?a=1)
+![gutpress-blockquote](https://www.arif-khan.net/_old/project/github/blockquote.png?a=1)
 ##### Card
-![gutpress-card](https://www.arif-khan.net/project/github/card.png?a=2)
+![gutpress-card](https://www.arif-khan.net/_old/project/github/card.png?a=2)
 ##### Call to Action
-![gutpress-cta](https://www.arif-khan.net/project/github/cta.png?a=1)
+![gutpress-cta](https://www.arif-khan.net/_old/project/github/cta.png?a=1)
 ##### Testimonial
-![gutpress-testimonial](https://www.arif-khan.net/project/github/testimonial.png?a=1)
+![gutpress-testimonial](https://www.arif-khan.net/_old/project/github/testimonial.png?a=1)
 
 ## Features
 [![gutpress](https://img.youtube.com/vi/ZFqWmo8vCBc/0.jpg?a=1)](https://www.youtube.com/watch?v=ZFqWmo8vCBc)
